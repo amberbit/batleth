@@ -20,7 +20,7 @@ Batleth
 
 -> Stat.ex -> a module that calculates some statistics on the battery
 
--> LastChange.ex -> a module that is very useful
+-> LastChange.ex -> a server that saves first %Database.Wpis record 
 
 -> Time.ex -> a module with very useful time functions
 
